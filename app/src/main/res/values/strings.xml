@@ -13,9 +13,11 @@
     <string name="recipes">RECIPES</string>
     <string name="Yaichnicha">Яичница</string>
     <string name="KakSdelatbYaichnichu1">Подготавливаем продукты по списку.</string>
-    <string name="ingridients_yaishnicha">Ингредиенты: \n
-        Яйца — 3 Штуки \n
-        Растительное масло — 1 Ст. ложка \n
-        Соль — По вкусу</string>
-    <string name="b_1_b"><b>1</b></string>
+    <string name="ingridients_yaishnicha"><b>Ингредиенты:</b> \nЯйца — 3 Штуки \nРастительное масло — 1 Ст. ложка \nСоль — По вкусу</string>
+    <string name="b_1_b"><h1><b>1.</b></h1>Налейте растительное масло в чистую сковороду и поставьте на огонь.</string>
+    <string name="_2"><h1><b>2.</b></h1> Разбейте яйца и вылейте их на сковороду, стараясь не повредить желток.</string>
+    <string name="_3_"><h1><b>3.</b></h1> Посолите по вкусу и жарьте 2-3 минуты. Лопаткой аккуратно переложите яичницу на тарелку и подавайте на стол.</string>
+    <string name="itsForYou"><h1>Приятного аппетита!</h1></string>
+
+
 </resources>
