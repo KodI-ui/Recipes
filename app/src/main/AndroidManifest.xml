@@ -9,11 +9,27 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Recipes">
+        <activity android:name=".ChooseKind"></activity>
+        <activity android:name=".Lemonade" />
+        <activity android:name=".PieWthStrawberry" />
+        <activity android:name=".Zefir" />
+        <activity android:name=".Ledenci" />
+        <activity android:name=".Chicken" />
+        <activity android:name=".Shaurma" />
+        <activity android:name=".Draniki" />
+        <activity android:name=".Boilion" />
+        <activity android:name=".SoupWthFrikadelki" />
+        <activity android:name=".Plov" />
+        <activity android:name=".Kutya" />
+        <activity android:name=".SousForCesar" />
+        <activity android:name=".Pelmeni" />
+        <activity android:name=".Borshch" />
+        <activity android:name=".SaladCesar" />
         <activity android:name=".Yaichnicha">
             <intent-filter>
-            <action android:name="android.intent.action.RUN" />
+                <action android:name="android.intent.action.RUN" />
 
-            <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
         <activity android:name=".PreviewActivity">
